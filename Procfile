@@ -1,0 +1,1 @@
+web: gunicorn crn1.wsgi --log-file -

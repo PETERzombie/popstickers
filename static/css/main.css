@@ -1,0 +1,59 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Nabla&display=swap');
+
+
+
+
+
+#logo{
+
+}
+body{
+	background-color: #ebeff5;
+
+}
+#total-orders{
+	background-color: #4cb4c7;
+}
+
+#orders-delivered{
+	background-color: #7abecc;
+}
+
+#orders-pending{
+	background-color: #7CD1C0;
+}
+
+.logo{
+
+	font-family: 'Nabla', cursive;
+	font-size: 50px;
+	color: #ffc0cb;
+}
+
+
+h1 {
+
+	color: blue;
+}
+
+.thumb {
+	widows: 250px;
+	height: 250px;
+} 
+
+#bg {
+
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	background-position: top;
+	background-attachment: fixed;
+}
+
+footer{
+
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+}
