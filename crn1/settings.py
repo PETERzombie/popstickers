@@ -134,8 +134,4 @@ STATIC_ROOT =os.path.join(BASE_DIR,'staticfiles')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': 'dbjaqlywc',
-    'API_KEY': '295641679978621',
-    'API_SECRET': 'yefgWCDGPOtgvjxVmkE0j2qIo5k'
-}
+
